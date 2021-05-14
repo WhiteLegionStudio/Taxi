@@ -1,0 +1,16 @@
+<resources>
+    <string name="string_empty" translatable="false" />
+    <string name="app_name">Такси</string>
+    <string name="button_register">Регистрация</string>
+    <string name="text_phone_number">Номер телефона</string>
+    <string name="text_first_name">Имя</string>
+    <string name="text_last_name">Фамилия</string>
+    <string name="button_enter">Вход</string>
+    <string name="text_from_address">Начальный адрес</string>
+    <string name="text_to_address">Конечный адрес</string>
+    <string name="text_street">Улица</string>
+    <string name="text_house">Дом</string>
+    <string name="button_save_address">Сохранить</string>
+    <string name="button_set_path">Задать маршрут</string>
+    <string name="button_call_taxi">Заказать такси</string>
+</resources>
